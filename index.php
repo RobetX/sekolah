@@ -35,7 +35,7 @@
     </ul>
     <div class="grid">
       <figure class="figure">
-        <img src="assets/img/sekolah1.jpg" alt="Foto Sekolah 1">
+        <img src="https://h.top4top.io/p_3520zy4d71.jpg" alt="Foto Sekolah 1">
         <figcaption class="text-muted">Gedung Sekolah</figcaption>
       </figure>
       <figure class="figure">
